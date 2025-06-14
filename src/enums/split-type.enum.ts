@@ -1,0 +1,5 @@
+export enum SplitType {
+  EQUAL = 'EQUAL',
+  PERCENTAGE = 'PERCENTAGE',
+  EXACT_AMOUNT = 'EXACT_AMOUNT',
+}
